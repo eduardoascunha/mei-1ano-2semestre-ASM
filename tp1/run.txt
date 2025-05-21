@@ -1,0 +1,3 @@
+sudo service openfire start
+
+>> python3 file.py
